@@ -1,0 +1,343 @@
+.contact .rectangle-1 {
+  position: absolute;
+  left: -3px;
+  top: -2px;
+  width: 978px;
+  height: 897px;
+}
+.contact .rectangle-2 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  position: absolute;
+  top: 0px;
+  right: -2px;
+  width: 539px;
+  height: 952px;
+}
+.contact .image-3 {
+  background: url('../assets/images/image_3.png') 50% / cover no-repeat;
+  width: 121px;
+  height: 121px;
+}
+.contact .home {
+  margin-right: 8.5px;
+  width: 112.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  color: #000000;
+}
+.contact .sobre-ns {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  color: #000000;
+}
+.contact .comprar {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  color: #000000;
+}
+.contact .contato {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  color: #000000;
+}
+.contact .nav {
+  margin: 52px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 410.9px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.contact .shopping-cart {
+  margin: 48px 0;
+  width: 25px;
+  height: 25px;
+}
+.contact .container-3 {
+  position: relative;
+  margin: 0 95px 46px 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1293px;
+  box-sizing: border-box;
+}
+.contact .contate {
+  margin: 0 29px 5px 0;
+  display: inline-block;
+  width: 907px;
+  overflow-wrap: break-word;
+  font-family: 'Raleway';
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 1.45;
+  color: #482A5D;
+}
+.contact .primeiro-nome {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.667;
+  color: #000000;
+}
+.contact .vector-8 {
+  background: #848484;
+  margin: 0 5px 11.5px 5px;
+  align-self: flex-start;
+  width: 1px;
+  height: 11.5px;
+}
+.contact .vector-4 {
+  background: #8D8D8D;
+  width: 278px;
+  height: 1px;
+}
+.contact .group-1000001762 {
+  margin-top: 7px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.contact .container-4 {
+  position: relative;
+  margin-bottom: 13px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1214px;
+  box-sizing: border-box;
+}
+.contact .vector-11 {
+  width: 36.8px;
+  height: 36px;
+}
+.contact .social-icons-5 {
+  margin-right: 20.2px;
+  display: flex;
+  width: 36.8px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.contact .xxxx-xxxx {
+  margin: 6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 36px;
+  letter-spacing: 0.7px;
+  line-height: 0.667;
+  color: #000000;
+}
+.contact .container {
+  position: relative;
+  margin: 0 11px 11px 11px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact .sobrenome {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.667;
+  color: #000000;
+}
+.contact .container {
+  margin-bottom: 11px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #8D8D8D;
+}
+.contact .vector-5 {
+  background: #8D8D8D;
+  width: 278px;
+  height: 1px;
+}
+.contact .group-1000001761 {
+  position: relative;
+  margin: 0 0 62px 754px;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact .email {
+  margin-bottom: 35px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.667;
+  color: #000000;
+}
+.contact .vector-6 {
+  background: #8D8D8D;
+  width: 278px;
+  height: 1px;
+}
+.contact .group-1000001759 {
+  position: relative;
+  margin: 0 0 73px 764px;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact .nos-sigam-nas-nossas-midias-sociais {
+  margin-right: 58px;
+  width: 878px;
+  overflow-wrap: break-word;
+  font-family: 'Raleway';
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 1.45;
+  color: #482A5D;
+}
+.contact .messagem {
+  margin-bottom: 19px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.667;
+  color: #000000;
+}
+.contact .escreva-sua-mensagem {
+  margin-bottom: 27px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.429;
+  color: #000000;
+}
+.contact .vector-9 {
+  background: #8D8D8D;
+  width: 283px;
+  height: 1px;
+}
+.contact .group-1000001757 {
+  margin: 15px 0 14px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.contact .container-2 {
+  position: relative;
+  margin-bottom: 48px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1219px;
+  box-sizing: border-box;
+}
+.contact .social-icons {
+  margin-right: 33px;
+  width: 48px;
+  height: 48px;
+}
+.contact .social-icons-1 {
+  margin-right: 35px;
+  width: 48px;
+  height: 48px;
+}
+.contact .vector-6 {
+  width: 44px;
+  height: 39.8px;
+}
+.contact .social-icons-2 {
+  margin: 3.8px 35px 4.4px 0;
+  display: flex;
+  width: 44px;
+  height: 39.8px;
+  box-sizing: border-box;
+}
+.contact .vector-7 {
+  width: 48px;
+  height: 48px;
+}
+.contact .social-icons-3 {
+  margin-right: 33px;
+  display: flex;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.contact .social-icons-4 {
+  width: 48px;
+  height: 48px;
+}
+.contact .container-1 {
+  position: relative;
+  margin-bottom: 29px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 372px;
+  box-sizing: border-box;
+}
+.contact .send-message {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.contact .frame-2 {
+  box-shadow: 0px 0px 14px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 5px;
+  background: #000000;
+  position: relative;
+  display: flex;
+  align-self: flex-end;
+  padding: 15px 0;
+  width: 214px;
+  box-sizing: border-box;
+}
+.contact {
+  background: #FFFAF0;
+  display: flex;
+  flex-direction: column;
+  padding: 13px 23px 126px 93px;
+  width: 1512px;
+  box-sizing: border-box;
+}

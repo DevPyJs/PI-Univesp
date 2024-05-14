@@ -1,0 +1,107 @@
+.mac-book-pro-143 .rectangle-1 {
+  position: absolute;
+  left: -9px;
+  top: -9px;
+  width: 978px;
+  height: 891px;
+}
+.mac-book-pro-143 .rectangle-2 {
+  position: absolute;
+  top: -9px;
+  right: -2px;
+  width: 545px;
+  height: 949px;
+}
+.mac-book-pro-143 .image-3 {
+  background: url('../assets/images/image_3.png') 50% / cover no-repeat;
+  width: 121px;
+  height: 121px;
+}
+.mac-book-pro-143 .home {
+  margin-right: 8.5px;
+  width: 112.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  color: #000000;
+}
+.mac-book-pro-143 .sobre-ns {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  color: #000000;
+}
+.mac-book-pro-143 .comprar {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  color: #000000;
+}
+.mac-book-pro-143 .contato {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  color: #000000;
+}
+.mac-book-pro-143 .nav {
+  margin: 52px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 410.9px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.mac-book-pro-143 .shopping-cart {
+  margin: 48px 0;
+  width: 25px;
+  height: 25px;
+}
+.mac-book-pro-143 .container {
+  position: relative;
+  margin-bottom: 96px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1293px;
+  box-sizing: border-box;
+}
+.mac-book-pro-143 .confeitaria-nossa-vida {
+  position: relative;
+  margin: 0 460.2px 42px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Raleway';
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 1.45;
+  color: #482A5D;
+}
+.mac-book-pro-143 .bem-vindo-nossa-confeitaria-onde-cada-doce-uma-obra-de-arte-comestvel-cuidadosamente-elaborada-para-despertar-alegria-edeleitar-paladares-aqui-combinamos-habilidade-artesanal-ingredientes-de-alta-qualidade-eum-toque-de-criatividade-para-criar-doces-que-vo-muito-alm-do-sabor-so-experincias-para-todos-os-sentidos-venha-se-deliciar-conosco-edescubra-um-mundo-de-sabores-doces-ememrias-aucaradas {
+  position: relative;
+  margin-right: 482.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  letter-spacing: 0.3px;
+  line-height: 1.5;
+  color: #000000;
+}
+.mac-book-pro-143 {
+  background: #FFFAF0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 13px 118px 436px 101px;
+  width: 1512px;
+  box-sizing: border-box;
+}

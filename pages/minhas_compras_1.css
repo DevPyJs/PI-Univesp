@@ -1,0 +1,606 @@
+.minhas-compras-1 .rectangle-1 {
+  position: absolute;
+  left: -3px;
+  top: -2px;
+  width: 978px;
+  height: 897px;
+}
+.minhas-compras-1 .rectangle-2 {
+  position: absolute;
+  top: 0px;
+  right: -2px;
+  width: 539px;
+  height: 952px;
+}
+.minhas-compras-1 .image-3 {
+  background: url('../assets/images/image_3.png') 50% / cover no-repeat;
+  width: 121px;
+  height: 121px;
+}
+.minhas-compras-1 .home {
+  margin-right: 8.5px;
+  width: 112.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  color: #000000;
+}
+.minhas-compras-1 .sobre-ns {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  color: #000000;
+}
+.minhas-compras-1 .comprar {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  color: #000000;
+}
+.minhas-compras-1 .contato {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  color: #000000;
+}
+.minhas-compras-1 .shopping-cart {
+  margin: 48px 0;
+  width: 25px;
+  height: 25px;
+}
+.minhas-compras-1 .contate {
+  position: relative;
+  margin-right: 908.3px;
+  overflow-wrap: break-word;
+  font-family: 'Raleway';
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 1.45;
+  color: #482A5D;
+}
+.minhas-compras-1 .rectangle-1 {
+  position: absolute;
+  left: -3px;
+  top: -2px;
+  width: 978px;
+  height: 897px;
+}
+.minhas-compras-1 .rectangle-2 {
+  position: absolute;
+  top: 0px;
+  right: -2px;
+  width: 539px;
+  height: 952px;
+}
+.minhas-compras-1 .image-3 {
+  background: url('../assets/images/image_3.png') 50% / cover no-repeat;
+  width: 121px;
+  height: 121px;
+}
+.minhas-compras-1 .home {
+  margin-right: 8.5px;
+  width: 112.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  color: #000000;
+}
+.minhas-compras-1 .sobre-ns {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  color: #000000;
+}
+.minhas-compras-1 .comprar {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  color: #000000;
+}
+.minhas-compras-1 .contato {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  color: #000000;
+}
+.minhas-compras-1 .nav {
+  margin: 52px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 410.9px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.minhas-compras-1 .shopping-cart {
+  margin: 48px 0;
+  width: 25px;
+  height: 25px;
+}
+.minhas-compras-1 .container-11 {
+  position: relative;
+  margin: 0 0 46px 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1293px;
+  box-sizing: border-box;
+}
+.minhas-compras-1 .contate {
+  position: relative;
+  margin-right: 908.3px;
+  overflow-wrap: break-word;
+  font-family: 'Raleway';
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 1.45;
+  color: #482A5D;
+}
+.minhas-compras-1 .minhas-compras {
+  background: #FFFAF0;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  padding: 13px 118px 0 93px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.minhas-compras-1 .line-8 {
+  opacity: 0.25;
+  background: #000000;
+  position: relative;
+  margin-bottom: 13px;
+  width: 450px;
+  height: 1px;
+}
+.minhas-compras-1 .group-8 {
+  margin-right: 20.4px;
+  width: 30.9px;
+  height: 30.8px;
+}
+.minhas-compras-1 .escolha-um-item-da-cakes-passarelo {
+  opacity: 0.8;
+  margin: 11.6px 0 6.2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 11px;
+  color: #515151;
+}
+.minhas-compras-1 .group-18 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(2px);
+  border-radius: 2px;
+  background: #F5F5F5;
+  position: relative;
+  margin: 10px 0 11.5px 0;
+  display: flex;
+  flex-direction: row;
+  padding: 7.4px 0 7.4px 17.7px;
+  width: 409px;
+  box-sizing: border-box;
+}
+.minhas-compras-1 .image-11 {
+  background: url('../assets/images/image_11.png') 50% / cover no-repeat;
+  margin: 0 15.1px 1px 0;
+  width: 67.9px;
+  height: 66px;
+}
+.minhas-compras-1 .chat-histrico-de-conversas-realizadas {
+  margin-top: 15px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.chat-histrico-de-conversas-realizadas-sub1 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.333;
+}
+.chat-histrico-de-conversas-realizadas {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 1.333;
+  color: rgba(0, 0, 0, 0.55);
+}
+.minhas-compras-1 .container-9 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.minhas-compras-1 .container-2 {
+  position: relative;
+  margin: 0 101.1px 14px 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1275.9px;
+  box-sizing: border-box;
+}
+.minhas-compras-1 .line-4 {
+  opacity: 0.25;
+  background: #000000;
+  position: relative;
+  margin-bottom: 17px;
+  width: 450px;
+  height: 1px;
+}
+.minhas-compras-1 .rectangle-37 {
+  background: url('../assets/images/rectangle_37.png') 50% / cover no-repeat;
+  width: 187px;
+  height: 114px;
+}
+.minhas-compras-1 .group-1000001763 {
+  margin-bottom: 48px;
+  display: flex;
+  width: 187px;
+  height: 114px;
+  box-sizing: border-box;
+}
+.minhas-compras-1 .image-15 {
+  background: url('../assets/images/image_15.png') 50% / cover no-repeat;
+  margin-bottom: 48px;
+  width: 187px;
+  height: 114px;
+}
+.minhas-compras-1 .image-16 {
+  background: url('../assets/images/image_16.png') 50% / cover no-repeat;
+  width: 187px;
+  height: 114px;
+}
+.minhas-compras-1 .group-1000001765 {
+  display: flex;
+  width: 187px;
+  height: 114px;
+  box-sizing: border-box;
+}
+.minhas-compras-1 .container-12 {
+  margin: 34px 28px 15px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 187px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.minhas-compras-1 .bolo-prest-gio-bolo-de-chocoalte-com-coco-ralado-14-pessoas-r-3200 {
+  margin: 0 7.4px 40px 2px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.bolo-prest-gio-bolo-de-chocoalte-com-coco-ralado-14-pessoas-r-3200-sub77 {
+  font-family: 'Righteous', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.333;
+  color: #490361;
+}
+.minhas-compras-1 .bolo-cenoura-bolo-de-cenoura-coberto-com-choco-14-pessoas-r-3500 {
+  margin-bottom: 31px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.bolo-cenoura-bolo-de-cenoura-coberto-com-choco-14-pessoas-r-3500-sub77 {
+  font-family: 'Righteous', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.333;
+  color: #490361;
+}
+.minhas-compras-1 .bolo-ninho-bolo-de-leite-ninho-14-pessoas-r-3500 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.bolo-ninho-bolo-de-leite-ninho-14-pessoas-r-3500-sub77 {
+  font-family: 'Righteous', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.333;
+  color: #490361;
+}
+.minhas-compras-1 .container-5 {
+  margin: 27px 3.8px 11px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.minhas-compras-1 .line-9 {
+  background: rgba(0, 0, 0, 0.35);
+  margin: 35px 18px 15px 0;
+  width: 1px;
+  height: 437px;
+}
+.minhas-compras-1 .image-17 {
+  background: url('../assets/images/image_17.png') 50% / cover no-repeat;
+  margin-bottom: 47px;
+  width: 187px;
+  height: 114px;
+}
+.minhas-compras-1 .image-18 {
+  background: url('../assets/images/image_18.png') 50% / cover no-repeat;
+  margin-bottom: 46px;
+  width: 187px;
+  height: 114px;
+}
+.minhas-compras-1 .image-19 {
+  background: url('../assets/images/image_19.png') 50% / cover no-repeat;
+  width: 187px;
+  height: 114px;
+}
+.minhas-compras-1 .group-1000001768 {
+  display: flex;
+  width: 187px;
+  height: 114px;
+  box-sizing: border-box;
+}
+.minhas-compras-1 .container-8 {
+  margin: 35px 16px 17px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 187px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.minhas-compras-1 .bolo-milho-bolo-de-milhio-cremoso-14-pessoas-r-2900 {
+  margin-bottom: 31px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.bolo-milho-bolo-de-milhio-cremoso-14-pessoas-r-2900-sub77 {
+  font-family: 'Righteous', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.333;
+  color: #490361;
+}
+.minhas-compras-1 .bolo-laranja-bolo-de-laranja-ecanela-14-pessoas-r-3000 {
+  margin-bottom: 34px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.bolo-laranja-bolo-de-laranja-ecanela-14-pessoas-r-3000-sub77 {
+  font-family: 'Righteous', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.333;
+  color: #490361;
+}
+.minhas-compras-1 .bolo-lim-obolo-de-limo-siciliano-14-pessoas-r-3400 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.bolo-lim-obolo-de-limo-siciliano-14-pessoas-r-3400-sub77 {
+  font-family: 'Righteous', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.333;
+  color: #490361;
+}
+.minhas-compras-1 .container-6 {
+  margin: 33px 82.5px 27px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.minhas-compras-1 .image-10 {
+  background: url('../assets/images/image_10.png') 50% / cover no-repeat;
+  margin-right: 18px;
+  width: 66px;
+  height: 66px;
+}
+.notifica-es-suas-notificaes {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 1.333;
+  color: rgba(0, 0, 0, 0.55);
+}
+.minhas-compras-1 .notifica-es-suas-notificaes {
+  margin: 13px 0 1px 0;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.notifica-es-suas-notificaes-sub1 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.333;
+}
+.minhas-compras-1 .container-3 {
+  margin: 0 12px 17px 12px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.minhas-compras-1 .line-5 {
+  opacity: 0.25;
+  background: #000000;
+  margin-bottom: 14px;
+  width: 450px;
+  height: 1px;
+}
+.minhas-compras-1 .image-13 {
+  background: url('../assets/images/image_13.png') 50% / cover no-repeat;
+  margin-right: 3.9px;
+  width: 92.1px;
+  height: 66px;
+}
+.minhas-compras-1 .minha-carteira-adicione-suas-formas-de-pagamento {
+  margin: 12px 0 2px 0;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.minha-carteira-adicione-suas-formas-de-pagamento-sub1 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.333;
+}
+.minha-carteira-adicione-suas-formas-de-pagamento {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 1.333;
+  color: rgba(0, 0, 0, 0.55);
+}
+.minhas-compras-1 .container-1 {
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.minhas-compras-1 .line-6 {
+  background: rgba(0, 0, 0, 0.25);
+  margin-bottom: 16px;
+  width: 450px;
+  height: 1px;
+}
+.minhas-compras-1 .image-14 {
+  opacity: 0.7;
+  background: url('../assets/images/image_14.png') 50% / cover no-repeat;
+  margin-right: 14px;
+  width: 66px;
+  height: 66px;
+}
+.minhas-compras-1 .meus-cupons-cupons-disponveis {
+  margin: 12px 0 2px 0;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.meus-cupons-cupons-disponveis-sub1 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.333;
+}
+.meus-cupons-cupons-disponveis {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 1.333;
+  color: rgba(0, 0, 0, 0.55);
+}
+.minhas-compras-1 .container {
+  margin: 0 12px 16px 12px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.minhas-compras-1 .line-7 {
+  background: rgba(0, 0, 0, 0.25);
+  margin-bottom: 144px;
+  width: 450px;
+  height: 1px;
+}
+.minhas-compras-1 .ir-para-opagamento {
+  margin-right: 9.6px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1;
+  color: #000000;
+}
+.minhas-compras-1 .arrow-1 {
+  background: #000000;
+  margin: 10px 0 8px 0;
+  width: 37px;
+  height: 2px;
+}
+.minhas-compras-1 .container-7 {
+  border-radius: 20px;
+  border: 1px solid #000000;
+  background: linear-gradient(90deg, #9EF3EE, #FFFFFF, #FFFFFF);
+  position: relative;
+  margin: 0 40px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-end;
+  padding: 22px 26px 22px 0;
+  width: 344px;
+  box-sizing: border-box;
+}
+.minhas-compras-1 .container-10 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.minhas-compras-1 .container-4 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.minhas-compras-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 242px 42px 129px 68px;
+  width: 1512px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,96 @@
+.mac-book-pro-144 .rectangle-1 {
+  position: absolute;
+  left: -9px;
+  top: -9px;
+  width: 1521px;
+  height: 891px;
+}
+.mac-book-pro-144 .image-3 {
+  background: url('../assets/images/image_3.png') 50% / cover no-repeat;
+  width: 121px;
+  height: 121px;
+}
+.mac-book-pro-144 .home {
+  margin-right: 8.5px;
+  width: 112.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  color: #000000;
+}
+.mac-book-pro-144 .sobre-ns {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  color: #000000;
+}
+.mac-book-pro-144 .comprar {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  color: #000000;
+}
+.mac-book-pro-144 .contato {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  color: #000000;
+}
+.mac-book-pro-144 .nav {
+  margin: 52px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 410.9px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.mac-book-pro-144 .shopping-cart {
+  margin: 48px 0;
+  width: 25px;
+  height: 25px;
+}
+.mac-book-pro-144 .container {
+  position: relative;
+  margin-bottom: 42px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1293px;
+  box-sizing: border-box;
+}
+.mac-book-pro-144 .contate {
+  position: relative;
+  margin: 0 904.5px 97px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Raleway';
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 1.45;
+  color: #482A5D;
+}
+.mac-book-pro-144 .imgfome-3 {
+  background: url('../assets/images/imgfome_3.png') 50% / cover no-repeat;
+  position: relative;
+  margin-left: 9px;
+  width: 302px;
+  height: 320px;
+}
+.mac-book-pro-144 {
+  background: #FFFAF0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 13px 118px 331px 101px;
+  width: 1512px;
+  box-sizing: border-box;
+}
